@@ -1,6 +1,6 @@
 package hw1;
 
-public class Hw4 {
+public class Hw04 {
 
 	public static void main(String[] args) {
 		// 1.通過指定運算子 = ，設定 π 值。

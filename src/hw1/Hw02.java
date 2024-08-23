@@ -1,6 +1,6 @@
 package hw1;
 
-public class Hw2 {
+public class Hw02 {
 	
 	public static void main(String[] args) {
 		// 1.通過指定運算子 = ，設定雞蛋總數。

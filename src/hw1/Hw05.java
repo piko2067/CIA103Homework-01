@@ -1,6 +1,6 @@
 package hw1;
 
-public class Hw5 {
+public class Hw05 {
 
 	public static void main(String[] args) {
 		// 1.通過指定運算子 = ，設定本金 p 值。

@@ -1,6 +1,6 @@
 package hw2;
 
-public class hw1 {
+public class Hw1 {
 
 	public static void main(String[] args) {
 		int sum = 0;

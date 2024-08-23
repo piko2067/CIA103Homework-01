@@ -1,6 +1,6 @@
 package hw2;
 
-public class hw6 {
+public class Hw6 {
 
 	public static void main(String[] args) {
 		for (int i = 10; i >= 1; i--) {

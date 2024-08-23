@@ -1,6 +1,6 @@
 package hw2;
 
-public class hw5 {
+public class Hw5 {
 
 	public static void main(String[] args) {
 		int count = 0;

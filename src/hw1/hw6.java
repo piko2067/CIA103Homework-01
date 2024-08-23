@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw6 {
+public class Hw6 {
 
 	public static void main(String[] args) {
 		// 兩個為整數資料型別，算術運算子 + ，將其數值相加。

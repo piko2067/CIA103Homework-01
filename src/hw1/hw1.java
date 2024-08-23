@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw1 {
+public class Hw1 {
 
 	public static void main(String[] args) {
 		// 1.通過指定運算子 = ，設定數值。

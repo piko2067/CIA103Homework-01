@@ -1,6 +1,6 @@
 package hw2;
 
-public class hw7 {
+public class Hw7 {
 
 	public static void main(String[] args) {
 		char x='A';

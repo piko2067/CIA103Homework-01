@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw3 {
+public class Hw3 {
 
 	public static void main(String[] args) {
 		// 1.通過指定運算子 = ，設定總秒數。

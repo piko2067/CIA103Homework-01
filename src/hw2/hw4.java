@@ -1,6 +1,6 @@
 package hw2;
 
-public class hw4 {
+public class Hw4 {
 
 	public static void main(String[] args) {
 		for (int x = 1; x <= 10; x++) {

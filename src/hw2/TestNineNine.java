@@ -5,8 +5,8 @@ public class TestNineNine {
 //		使用for迴圈 + while迴圈
 //		int i, j;
 //		for (i = 1; i <= 9; i++) {
-//			j = 1;
-//			while (j++ <= 9)
+//			j = 0;			
+//			while (j++ <= 8)
 //				System.out.print(i + "*" + j + "=" + i * j + "\t");
 //			System.out.println();
 //		}
